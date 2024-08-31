@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project contains two main functionalities: a serial number generator and a word finder that reads words from a file and returns random words. The `SerialGenerator` class provides a way to generate unique serial numbers, while the `WordFinder` class allows for retrieving random words from a text file. An extended `SpecialWordFinder` class filters out comments and blank lines from the file.
+This project features two key functionalities implemented in Python: a serial number generator and a word finder. The SerialGenerator class enables the creation of unique serial numbers, while the WordFinder class reads words from a text file and returns random selections. Additionally, the SpecialWordFinder class extends this functionality by filtering out comments and blank lines from the file, ensuring that only meaningful words are retrieved.
 
 ## Project Structure
 
