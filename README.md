@@ -71,7 +71,3 @@ print(swf.random())  # Randomly outputs one of the words in complex.txt (ignorin
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Would you like to make any changes or add additional details to this draft?
